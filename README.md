@@ -21,6 +21,11 @@
 
 데이터 원본: https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 
+제작한 AI 모델
+---
+![7](https://github.com/rakkeshasa/kt_7th_miniproject/assets/77041622/7d9ffae1-14b0-4f7e-8eda-4b49f12f603d)
+
+
 사용한 도구
 ---
 - Visual Studio Code
