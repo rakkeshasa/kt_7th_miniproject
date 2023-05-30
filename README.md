@@ -25,6 +25,16 @@
 ---
 ![7](https://github.com/rakkeshasa/kt_7th_miniproject/assets/77041622/7d9ffae1-14b0-4f7e-8eda-4b49f12f603d)
 
+코드 구현
+---
+- ChatGPT API 활용
+
+![1](https://github.com/rakkeshasa/kt_7th_miniproject/assets/77041622/740b0ca8-0e7d-4390-803b-0e04798c1ce2)
+
+- 로그인 기능 구현
+
+![2](https://github.com/rakkeshasa/kt_7th_miniproject/assets/77041622/aa562918-72b3-4adb-9143-72a8bf75c133)
+
 
 사용한 도구
 ---
